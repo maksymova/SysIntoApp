@@ -1,0 +1,14 @@
+{
+    "name": "sysintoapp",
+    "version": "1.0.0",
+    "description": "Simple system monotor",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Elena Maksymova",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^2.0.2"
+    }
+}
